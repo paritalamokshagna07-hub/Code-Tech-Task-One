@@ -1,1 +1,8 @@
-# Code-Tech-Task-One
+NAME : PARITALA VENKATA MOKSHAGNA 
+COMPANY : CODE TECH IT SOLUTIONS 
+ID : CT04DY2461
+DOMAIN : PYTHON PROGRAMMING 
+DURATION : SEPTEMBER 2025 TO OCTOBER 2025
+MENTOR : NEELA SANTHOSH KUMAR 
+** OVERVIEW **
+Fetches live weather data from OpenWeatherMap API and plots temperature trends using Matplotlib/Seaborn.
